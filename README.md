@@ -50,6 +50,6 @@ GridSearchCV is employed to find the best hyperparameters (C and gamma) for the 
 
 ### Classification Reports and model comparison : Presents precision, recall, and F1-score for each class.
 
-ROC Curve and AUC: Visualizes the model's ability to distinguish between classes and provides a single score for its overall performance.
+### ROC Curve and AUC: Visualizes the model's ability to distinguish between classes and provides a single score for its overall performance.
 
 ### Prediction on New Data: The final section demonstrates how to use the trained model to predict the diabetes status of a new, unseen patient. A reusable function is created to streamline this process.
